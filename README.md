@@ -1,4 +1,4 @@
-# expense_tracker
+# Digital Pocket
 
 Essentially includes a basic Expense Tracker which helps in Tracking your day-to-day expenses.
 
